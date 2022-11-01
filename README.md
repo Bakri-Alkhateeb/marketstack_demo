@@ -11,7 +11,6 @@ Flutter application to get the EOD data of 10 random companies.
 
 ## Table of Contents
 
-* [Demo](#demo)
 * [Tech Stack](#tech-stack)
 * [Features](#features)
 * [Configuration Setup](#configuration-setup)
