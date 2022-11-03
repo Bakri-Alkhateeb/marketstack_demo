@@ -46,6 +46,7 @@ This is where you want to demonstrate the technologies you used in this project 
 
 You need to add your own Access_Key to this file:
 - lib/core/constants
+
 You can get an access key for free from [here](https://marketstack.com)
 
 ## Usage
